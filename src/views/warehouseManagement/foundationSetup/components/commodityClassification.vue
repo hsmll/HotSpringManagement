@@ -1,13 +1,13 @@
 <template>
   <div>
-    <h2>基础设置</h2>
+    <h2>test</h2>
   </div>
 </template>
 
 <script>
-export default {
-  name: 'FoundationSetup'
-}
+    export default {
+        name: "test"
+    }
 </script>
 
 <style scoped>
