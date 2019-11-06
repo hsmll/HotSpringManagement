@@ -1,12 +1,12 @@
 <template>
-  <div>
-    <h2>test</h2>
-  </div>
+    <div>
+      编号管理
+    </div>
 </template>
 
 <script>
     export default {
-        name: "test"
+        name: "numberingManagement"
     }
 </script>
 

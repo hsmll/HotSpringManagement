@@ -1,12 +1,12 @@
 <template>
     <div>
-      1111
+      参数配置
     </div>
 </template>
 
 <script>
     export default {
-        name: "abcd"
+        name: "parameterConfiguration"
     }
 </script>
 
